@@ -5,9 +5,7 @@
 This Python script exports an entire Android project's source code and configuration files into a single text file. This is particularly useful for:
 
 - Sharing code for review via text-based platforms
-- Using the code with AI tools like Claude, GPT, etc.
 - Creating a text-based backup of your project's code
-- Submitting code for academic assignments
 - Making your codebase searchable in a single document
 
 The script intelligently filters out binary files, build artifacts, and other non-essential files to produce a clean, readable text document containing all your project's code.
